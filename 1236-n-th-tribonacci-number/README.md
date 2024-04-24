@@ -29,3 +29,5 @@ T_4 = 1 + 1 + 2 = 4
 	<li><code>0 &lt;= n &lt;= 37</code></li>
 	<li>The answer is guaranteed to fit within a 32-bit integer, ie. <code>answer &lt;= 2^31 - 1</code>.</li>
 </ul>
+
+<a href = "https://leetcode.com/problems/n-th-tribonacci-number/solutions/5065007/java-o-n-time-o-1-space">My solution explanation</a>

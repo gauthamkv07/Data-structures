@@ -36,3 +36,5 @@ Note that &quot;acfgbd&quot; is not ideal because &#39;c&#39; and &#39;f&#39; ha
 	<li><code>0 &lt;= k &lt;= 25</code></li>
 	<li><code>s</code> consists of lowercase English letters.</li>
 </ul>
+
+<a href = "https://leetcode.com/problems/longest-ideal-subsequence/solutions/5069920/dp-solution/">Solution explanation</a>

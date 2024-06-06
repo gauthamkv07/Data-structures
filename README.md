@@ -19,8 +19,18 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gauthamkv07/Data-structures/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
+# Array
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
+# Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |

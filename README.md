@@ -38,10 +38,12 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0523-continuous-subarray-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/gauthamkv07/Data-structures/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
 # Trie
 |  |
 | ------- |
@@ -62,3 +64,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamkv07/Data-structures/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |

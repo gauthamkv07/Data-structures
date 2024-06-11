@@ -31,6 +31,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0523-continuous-subarray-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/gauthamkv07/Data-structures/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
+| [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamkv07/Data-structures/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Array
 |  |
@@ -39,11 +40,13 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0648-replace-words](https://github.com/gauthamkv07/Data-structures/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
@@ -68,3 +71,4 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |

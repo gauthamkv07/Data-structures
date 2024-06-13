@@ -24,6 +24,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0409-longest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gauthamkv07/Data-structures/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamkv07/Data-structures/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Hash Table
@@ -45,6 +46,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 # Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0523-continuous-subarray-sum) |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 # Prefix Sum
 |  |
 | ------- |
@@ -78,3 +81,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
+# Binary Search
+|  |
+| ------- |
+| [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |

@@ -1,7 +1,5 @@
 class Solution {
     public int maximumGroups(int[] grades) {
-        int sum = 0, k = 0, n = grades.length;
-        while(sum + k + 1 <= n) sum += ++k;
-        return k;
+        return (int)((Math.sqrt(grades.length * 8 + 1) - 1)/2);
     }
 }

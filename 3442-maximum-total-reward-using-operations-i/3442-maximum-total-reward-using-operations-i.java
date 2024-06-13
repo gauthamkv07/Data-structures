@@ -1,32 +1,22 @@
 class Solution {
+    int[] memo;
+    int n;
+
+    public int recur(int[] arr, int i, int sum) {
+        if(i == n) return sum;
+        if(memo[sum] != 0) return memo[sum];
+
+        int inc = 0;
+        if(arr[i] > sum) inc = recur(arr, i+1, arr[i] + sum);
+        int exc = recur(arr, i+1, sum);
+
+        return memo[sum] = Math.max(inc,exc);
+    }
+
     public int maxTotalReward(int[] rewardValues) {
         Arrays.sort(rewardValues);
-        int n = rewardValues.length;
-        
-        int sum = 0;
-        for(int i: rewardValues) sum += i;
-        
-        int[] dp = new int[sum+1];
-        Arrays.fill(dp, -1);
-        
-        return helper(rewardValues, dp, 0, n, 0);
-    }
-    
-    int helper(int[] rewardValues, int[] dp, int i, int n, int currReward) {
-        if(i == n) {
-            return currReward;
-        }
-        
-        if(dp[currReward] != -1) return dp[currReward];
-        
-        int notInclude = helper(rewardValues, dp, i+1, n, currReward);
-        
-        int include = 0;
-        if(rewardValues[i] > currReward) {
-            include = helper(rewardValues, dp, i+1, n, currReward+rewardValues[i]);
-        }
-        
-        dp[currReward] = Math.max(notInclude, include);
-        return dp[currReward];
+        memo = new int[4001];
+        n = rewardValues.length;
+        return recur(rewardValues, 0, 0);
     }
 }

@@ -9,6 +9,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0075-sort-colors](https://github.com/gauthamkv07/Data-structures/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/gauthamkv07/Data-structures/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gauthamkv07/Data-structures/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -70,6 +71,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/0633-sum-of-square-numbers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 # Prefix Sum
 |  |
@@ -93,6 +95,7 @@ All solution explanation links are in the corresponding questions readme file. T
 # Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/0633-sum-of-square-numbers) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 # Dynamic Programming
 |  |

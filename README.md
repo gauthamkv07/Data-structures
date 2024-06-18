@@ -10,6 +10,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0075-sort-colors](https://github.com/gauthamkv07/Data-structures/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/gauthamkv07/Data-structures/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gauthamkv07/Data-structures/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -24,6 +25,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0409-longest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/gauthamkv07/Data-structures/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -46,6 +48,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0502-ipo](https://github.com/gauthamkv07/Data-structures/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/gauthamkv07/Data-structures/tree/master/0648-replace-words) |
+| [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
@@ -58,6 +61,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0075-sort-colors](https://github.com/gauthamkv07/Data-structures/tree/master/0075-sort-colors) |
 | [0502-ipo](https://github.com/gauthamkv07/Data-structures/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
@@ -96,6 +100,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 # Dynamic Programming
 |  |

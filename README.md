@@ -52,6 +52,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
+| [1138-grumpy-bookstore-owner](https://github.com/gauthamkv07/Data-structures/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gauthamkv07/Data-structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauthamkv07/Data-structures/tree/master/1675-magnetic-force-between-two-balls) |
@@ -111,3 +112,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/gauthamkv07/Data-structures/tree/master/3442-maximum-total-reward-using-operations-i) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/gauthamkv07/Data-structures/tree/master/1138-grumpy-bookstore-owner) |

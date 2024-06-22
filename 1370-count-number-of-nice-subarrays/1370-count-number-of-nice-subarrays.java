@@ -1,12 +1,13 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        Map<Integer,Integer> map = new HashMap<>();
-        int sum = 0, res = 0;
-        map.put(0, 1);
-        for(int num: nums) {
-            sum += num % 2;
-            if(map.containsKey(sum - k)) res += map.get(sum - k);
-            map.put(sum, map.getOrDefault(sum, 0) + 1);
+        Queue<Integer> q = new LinkedList<>();
+        
+        int lastPop = -1, n = nums.length, res = 0;
+        for(int i = 0; i < n; i++) {
+            if(nums[i] % 2 == 1) q.offer(i);
+            if(q.size() > k) lastPop = q.poll();
+            if(q.size() < k) continue;
+            res += q.element() - lastPop;
         }
         return res;
     }

@@ -52,6 +52,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamkv07/Data-structures/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1137-height-checker](https://github.com/gauthamkv07/Data-structures/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/gauthamkv07/Data-structures/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
@@ -88,6 +89,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0523-continuous-subarray-sum) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamkv07/Data-structures/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Stack
 |  |
 | ------- |
@@ -118,5 +120,14 @@ All solution explanation links are in the corresponding questions readme file. T
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamkv07/Data-structures/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/gauthamkv07/Data-structures/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/gauthamkv07/Data-structures/tree/master/1370-count-number-of-nice-subarrays) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamkv07/Data-structures/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/gauthamkv07/Data-structures/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |

@@ -60,6 +60,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/gauthamkv07/Data-structures/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauthamkv07/Data-structures/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2294-minimum-time-to-complete-trips](https://github.com/gauthamkv07/Data-structures/tree/master/2294-minimum-time-to-complete-trips) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/gauthamkv07/Data-structures/tree/master/3442-maximum-total-reward-using-operations-i) |
 # Sorting
@@ -143,6 +144,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2294-minimum-time-to-complete-trips](https://github.com/gauthamkv07/Data-structures/tree/master/2294-minimum-time-to-complete-trips) |
 # Binary Tree
 |  |
 | ------- |

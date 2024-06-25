@@ -14,17 +14,24 @@
  * }
  */
 class Solution {
-    int sum = 0;
-    public void dfs(TreeNode root) {
-        if(root == null) return;
-        dfs(root.right);
-        sum += root.val;
-        root.val = sum;
-        dfs(root.left);
-    }
-
     public TreeNode bstToGst(TreeNode root) {
-        dfs(root);
+        if(root == null) return root;
+        Stack<TreeNode> stack = new Stack<>();
+        int sum = 0;
+
+        TreeNode cur = root;
+
+        while(!stack.isEmpty() || cur != null) {
+            while(cur != null) {
+                stack.push(cur);
+                cur = cur.right;
+            }
+            cur = stack.pop();
+            sum += cur.val;
+            cur.val = sum;
+            cur = cur.left;
+        }
+        
         return root;
     }
 }

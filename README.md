@@ -94,6 +94,7 @@ All solution explanation links are in the corresponding questions readme file. T
 # Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/gauthamkv07/Data-structures/tree/master/0155-min-stack) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamkv07/Data-structures/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Heap (Priority Queue)
 |  |
@@ -149,3 +150,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/gauthamkv07/Data-structures/tree/master/0155-min-stack) |

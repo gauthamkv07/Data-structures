@@ -28,6 +28,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0853-most-profit-assigning-work](https://github.com/gauthamkv07/Data-structures/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/gauthamkv07/Data-structures/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gauthamkv07/Data-structures/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -137,20 +138,28 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |
 | [2294-minimum-time-to-complete-trips](https://github.com/gauthamkv07/Data-structures/tree/master/2294-minimum-time-to-complete-trips) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |
 # Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gauthamkv07/Data-structures/tree/master/0155-min-stack) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |

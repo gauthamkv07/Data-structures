@@ -30,6 +30,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0982-minimum-increment-to-make-array-unique](https://github.com/gauthamkv07/Data-structures/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1285-balance-a-binary-search-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/gauthamkv07/Data-structures/tree/master/2379-maximum-total-importance-of-roads) |
 | [2437-maximum-number-of-groups-entering-a-competition](https://github.com/gauthamkv07/Data-structures/tree/master/2437-maximum-number-of-groups-entering-a-competition) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/gauthamkv07/Data-structures/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamkv07/Data-structures/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -76,6 +77,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1217-relative-sort-array](https://github.com/gauthamkv07/Data-structures/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/gauthamkv07/Data-structures/tree/master/1675-magnetic-force-between-two-balls) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/gauthamkv07/Data-structures/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2379-maximum-total-importance-of-roads](https://github.com/gauthamkv07/Data-structures/tree/master/2379-maximum-total-importance-of-roads) |
 # Trie
 |  |
 | ------- |
@@ -101,6 +103,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0502-ipo](https://github.com/gauthamkv07/Data-structures/tree/master/0502-ipo) |
+| [2379-maximum-total-importance-of-roads](https://github.com/gauthamkv07/Data-structures/tree/master/2379-maximum-total-importance-of-roads) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/gauthamkv07/Data-structures/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 # Counting Sort
 |  |
@@ -167,3 +170,4 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/gauthamkv07/Data-structures/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/gauthamkv07/Data-structures/tree/master/2379-maximum-total-importance-of-roads) |

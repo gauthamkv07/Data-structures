@@ -171,3 +171,14 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/gauthamkv07/Data-structures/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/gauthamkv07/Data-structures/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/gauthamkv07/Data-structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/gauthamkv07/Data-structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+<!---LeetCode Topics End-->

@@ -181,4 +181,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/gauthamkv07/Data-structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/gauthamkv07/Data-structures/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->

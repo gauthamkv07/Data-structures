@@ -14,8 +14,6 @@ class Solution {
 
         Arrays.sort(arr, (a,b) -> Integer.compare(a[0], b[0]));
 
-        // for(int[] a: arr) System.out.println(a[0] + " " + a[1] + " " + a[2] + " " + a[3]);
-
         Stack<Integer> stack = new Stack<>();
         for(int i = 0; i < n; i++) {
             if(arr[i][2] == 1) {

@@ -195,6 +195,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
@@ -207,6 +208,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamkv07/Data-structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 ## Greedy
@@ -245,12 +247,14 @@ All solution explanation links are in the corresponding questions readme file. T
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/gauthamkv07/Data-structures/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/gauthamkv07/Data-structures/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |

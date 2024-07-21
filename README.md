@@ -181,6 +181,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/gauthamkv07/Data-structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +195,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1803-average-waiting-time](https://github.com/gauthamkv07/Data-structures/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -292,4 +294,9 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamkv07/Data-structures/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->

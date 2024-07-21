@@ -22,8 +22,8 @@ class Solution {
 
         int n = bfs.size();
         if(n < k) return new int[0];
-        int[] arr = new int[n];
-        for(int i = 0; i < n; i++) arr[i] = bfs.get(i);
+        int[] arr = new int[n+1];
+        for(int i = 1; i <= n; i++) arr[bfs.get(i-1)] = i;
         return arr;
     }
 
@@ -34,7 +34,7 @@ class Solution {
 
         int[][] matrix = new int[k][k];
 
-        for(int i = 0; i < k;i++) for(int j = 0; j < k; j++) if(row[i] == col[j]) matrix[i][j] = row[i];
+        for(int i = 1; i <= k;i++) for(int j = 1; j <= k; j++) matrix[row[i] - 1][col[i] - 1] = i;
 
         return matrix;
     }

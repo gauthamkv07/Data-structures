@@ -180,6 +180,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamkv07/Data-structures/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/gauthamkv07/Data-structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 ## Array
@@ -334,4 +335,12 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamkv07/Data-structures/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamkv07/Data-structures/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->

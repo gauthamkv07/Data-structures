@@ -3,24 +3,21 @@ class Solution {
         int n = rating.length;
         int res = 0;
 
-        int[][] dec = new int[n][4], inc = new int[n][4];
+        for(int mid = 1; mid < n-1; mid++) {
+            int ls = 0, rg = 0;
 
-        for(int i = 0; i < n; i++) {
-            inc[i][1] = 1;
-            dec[i][1] = 1;
+            for(int i = mid-1; i >= 0; i--) if(rating[i] < rating[mid]) ls++;
+            for(int i = mid+1; i < n; i++) if(rating[i] > rating[mid]) rg++;
+
+            res += ls * rg;
+
+            int lg = 0, rs = 0;
+            for(int i = mid-1; i >= 0; i--) if(rating[i] > rating[mid]) lg++;
+            for(int i = mid+1; i < n; i++) if(rating[i] < rating[mid]) rs++;
+
+            res += lg * rs;
         }
 
-        for(int count = 2; count < 4; count++) {
-            for(int i = 0; i < n; i++) {
-                for(int j = i+1; j < n; j++) {
-                    if(rating[j] > rating[i]) inc[j][count] += inc[i][count-1];
-                    if(rating[j] < rating[i]) dec[j][count] += dec[i][count-1];
-                }
-            }
-        }
-
-        for(int i = 2; i < n; i++) res += inc[i][3] + dec[i][3]; 
-
-        return res;  
+        return res;
     }
 }

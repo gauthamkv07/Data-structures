@@ -1,23 +1,45 @@
 class Solution {
     public int numTeams(int[] rating) {
         int n = rating.length;
-        int res = 0;
+        int res = 0, maxRating = 0;
 
-        for(int mid = 1; mid < n-1; mid++) {
-            int ls = 0, rg = 0;
+        for(int r: rating) maxRating = Math.max(r, maxRating);
 
-            for(int i = mid-1; i >= 0; i--) if(rating[i] < rating[mid]) ls++;
-            for(int i = mid+1; i < n; i++) if(rating[i] > rating[mid]) rg++;
+        int[] leftBIT = new int[maxRating+1], rightBIT = new int[maxRating+1];
 
-            res += ls * rg;
+        for(int r: rating) update(rightBIT, r, 1);
 
-            int lg = 0, rs = 0;
-            for(int i = mid-1; i >= 0; i--) if(rating[i] > rating[mid]) lg++;
-            for(int i = mid+1; i < n; i++) if(rating[i] < rating[mid]) rs++;
+        for(int r: rating) {
+            update(rightBIT, r, -1);
 
-            res += lg * rs;
+            int leftSmaller = get(leftBIT, r-1);
+            int rightSmaller = get(rightBIT, r-1);
+
+            int leftLarger = get(leftBIT, maxRating) - get(leftBIT, r);
+            int rightLarger = get(rightBIT, maxRating) - get(rightBIT, r);
+
+            res += leftSmaller * rightLarger;
+            res += leftLarger * rightSmaller;
+
+            update(leftBIT, r, 1);
         }
 
         return res;
+    }
+
+    private void update(int[] bit, int index, int value) {
+        while(index < bit.length) {
+            bit[index] += value;
+            index += index & (-index);
+        }
+    }
+
+    private int get(int[] bit, int index) {
+        int sum = 0;
+        while(index > 0) {
+            sum += bit[index];
+            index -= index & (-index);
+        }
+        return sum;
     }
 }

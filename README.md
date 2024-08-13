@@ -188,6 +188,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
@@ -399,4 +400,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

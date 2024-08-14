@@ -3,7 +3,8 @@ class Solution {
         Arrays.sort(nums);
 
         int n = nums.length;
-        int l = 0, r = nums[n-1] - nums[0];
+        int l = nums[1] - nums[0], r = nums[n-1] - nums[0];
+        for(int i = 2; i < n; i++) l = Math.min(l ,nums[i] - nums[i-1]);
 
         while(l < r) {
             int mid = l + (r-l)/2;

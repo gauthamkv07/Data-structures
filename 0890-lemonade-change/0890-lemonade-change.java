@@ -1,6 +1,6 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
-        int billsInHand = 0, billFive = 0, billTen = 0;
+        int billFive = 0, billTen = 0;
         for(int bill: bills) {
             if(bill == 5) billFive++;
             else if(bill == 10) {

@@ -282,6 +282,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/gauthamkv07/Data-structures/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/gauthamkv07/Data-structures/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/gauthamkv07/Data-structures/tree/master/2645-pass-the-pillow) |
@@ -382,6 +383,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/gauthamkv07/Data-structures/tree/master/0650-2-keys-keyboard) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamkv07/Data-structures/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/gauthamkv07/Data-structures/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |

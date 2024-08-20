@@ -217,6 +217,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2727-number-of-senior-citizens](https://github.com/gauthamkv07/Data-structures/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkv07/Data-structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,6 +243,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Sorting
 |  |
 | ------- |
@@ -410,6 +413,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamkv07/Data-structures/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Design
 |  |
 | ------- |

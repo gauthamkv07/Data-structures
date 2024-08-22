@@ -441,4 +441,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/gauthamkv07/Data-structures/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

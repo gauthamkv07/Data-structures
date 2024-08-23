@@ -1,13 +1,14 @@
 class Solution {
+    private int findGCD(int a, int b) {
+        if(a == 0) return b;
+        return findGCD(b % a, a);
+    }
+
     public int[] simplify(int num, int den) {
-        int i = 2;
-        while (Math.abs(num) > 1 && i < Math.abs(num)) {
-            while (num % i == 0 && den % i == 0) {
-                num /= i;
-                den /= i;
-            }
-            i++;
-        }
+        int gcd = Math.abs(findGCD(num, den));
+
+        num /= gcd;
+        den /= gcd;
 
         return new int[] { num, den };
     }

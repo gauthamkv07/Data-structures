@@ -322,6 +322,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/gauthamkv07/Data-structures/tree/master/1720-crawler-log-folder) |
@@ -331,6 +332,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -339,6 +341,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -347,6 +350,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |

@@ -7,7 +7,7 @@ class Solution {
 
         PriorityQueue<double[]> pq = new PriorityQueue<>((a,b) -> Double.compare(b[1], a[1]));
 
-        List<double[]>[] graph = new List[n];
+        List<double[]>[] graph = new List[n]; //sd
 
         for(int i = 0; i < n; i++) graph[i] = new ArrayList<>();
 

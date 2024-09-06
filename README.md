@@ -224,6 +224,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -238,6 +239,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkv07/Data-structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +281,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gauthamkv07/Data-structures/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gauthamkv07/Data-structures/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |

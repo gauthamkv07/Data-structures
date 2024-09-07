@@ -279,6 +279,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gauthamkv07/Data-structures/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gauthamkv07/Data-structures/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -349,6 +350,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -358,6 +360,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -367,6 +370,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -432,6 +436,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Breadth-First Search
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gauthamkv07/Data-structures/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree

@@ -228,6 +228,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
@@ -322,6 +323,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gauthamkv07/Data-structures/tree/master/0592-fraction-addition-and-subtraction) |
@@ -451,6 +453,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamkv07/Data-structures/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |

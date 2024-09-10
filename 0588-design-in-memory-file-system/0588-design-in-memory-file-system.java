@@ -1,83 +1,118 @@
-class FileSystem {
+abstract class Node{
+    String name;
 
-    class Dir {
-        HashMap<String, Dir> dirs;
-        HashMap<String, String> files;
-
-        public Dir() {
-            dirs = new HashMap<>();
-            files = new HashMap<>();
-        }
+    public Node(String name) {
+        this.name = name;
     }
 
+    public String getName() {
+        return name;
+    }
+}
+
+class File extends Node{
+    String content;
+
+    public File(String name) {
+        super(name);
+        this.content = "";
+    }
+    
+
+    public void addContent(String content) {
+        this.content += content;
+    }
+
+    public String getContent() {
+        return content;
+    }
+}
+
+class Dir extends Node {
+    TreeMap<String, Node> children;
+
+    public Dir(String name) {
+        super(name);
+        children = new TreeMap<>();
+    }
+
+    public void addNode(Node node) {
+        children.put(node.getName(), node);
+    }
+
+    public TreeMap<String, Node> getChildren() {
+        return children;
+    }
+}
+
+
+class FileSystem {
     Dir root;
-    String lastPath;
+    String lastNodeName;
 
     public FileSystem() {
-        root = new Dir();
-        lastPath = "";
+        root = new Dir("/");
+        lastNodeName = "";
     }
-
-    public Dir goToDir(String path) {
-        Dir currDir = root;
-
-        if (path.equals("/")) {
-            lastPath = "";
-            return root;
-        }
-
-        String[] splitPath = path.split("/");
-
-        int n = splitPath.length;
-
-        lastPath = splitPath[n - 1];
-
-        for (int i = 1; i < n - 1; i++)
-            currDir = currDir.dirs.get(splitPath[i]);
-
-        return currDir;
-    }
-
+    
     public List<String> ls(String path) {
-        Dir currDir = goToDir(path);
+        Node node = goToNode(path);
+        List<String> result = new ArrayList<>();
 
-        List<String> files = new ArrayList<>();
-
-        if (!lastPath.equals("") && currDir.files.containsKey(lastPath)) {
-            files.add(lastPath);
-            return files;
+        if (node instanceof File) {
+            result.add(node.getName());
+        } else {
+            Dir dir = (Dir) node;
+            result.addAll(dir.getChildren().keySet());
         }
-        currDir = lastPath.equals("") ? currDir : currDir.dirs.get(lastPath);
 
-        files.addAll(new ArrayList<>(currDir.dirs.keySet()));
-        files.addAll(new ArrayList<>(currDir.files.keySet()));
-
-        Collections.sort(files);
-        return files;
+        return result;
     }
-
+    
     public void mkdir(String path) {
-        Dir currDir = root;
+        String[] parts = path.split("/");
+        Dir curr = root;
 
-        String[] splitPath = path.split("/");
-
-        int n = splitPath.length;
-
-        for (int i = 1; i < n; i++) {
-            if (!currDir.dirs.containsKey(splitPath[i]))
-                currDir.dirs.put(splitPath[i], new Dir());
-            currDir = currDir.dirs.get(splitPath[i]);
+        for (int i = 1; i < parts.length; i++) {
+            if (!curr.children.containsKey(parts[i])) {
+                curr.children.put(parts[i], new Dir(parts[i]));
+            }
+            curr = (Dir) curr.children.get(parts[i]);
         }
     }
-
+    
     public void addContentToFile(String filePath, String content) {
-        Dir currDir = goToDir(filePath);
-        currDir.files.put(lastPath, currDir.files.getOrDefault(lastPath, "") + content);
+        String[] parts = filePath.split("/");
+        Dir curr = root;
+
+        for (int i = 1; i < parts.length - 1; i++) {
+            curr = (Dir) curr.children.get(parts[i]);
+        }
+
+        String fileName = parts[parts.length - 1];
+        if (!curr.children.containsKey(fileName)) {
+            curr.children.put(fileName, new File(fileName));
+        }
+
+        File file = (File) curr.children.get(fileName);
+        file.addContent(content);
+    }
+    
+    public String readContentFromFile(String filePath) {
+        File file = (File) goToNode(filePath);
+        return file.getContent();
     }
 
-    public String readContentFromFile(String filePath) {
-        Dir currDir = goToDir(filePath);
-        return currDir.files.get(lastPath);
+    private Node goToNode(String path) {
+        String[] parts = path.split("/");
+
+        Node curr = root;
+
+        for(int i = 1; i < parts.length; i++) {
+            curr = ((Dir) curr).getChildren().get(parts[i]);
+        }
+
+        return curr;
     }
 }
 

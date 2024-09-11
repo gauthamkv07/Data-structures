@@ -503,4 +503,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/gauthamkv07/Data-structures/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

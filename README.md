@@ -181,6 +181,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
 | [1325-path-with-maximum-probability](https://github.com/gauthamkv07/Data-structures/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamkv07/Data-structures/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/gauthamkv07/Data-structures/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -379,6 +380,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
+| [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
@@ -396,6 +398,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -449,6 +452,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gauthamkv07/Data-structures/tree/master/2171-second-minimum-time-to-reach-destination) |

@@ -222,6 +222,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamkv07/Data-structures/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/gauthamkv07/Data-structures/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -502,6 +503,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0476-number-complement](https://github.com/gauthamkv07/Data-structures/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/1435-xor-queries-of-a-subarray) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/gauthamkv07/Data-structures/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamkv07/Data-structures/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Number Theory
 |  |
 | ------- |
@@ -514,4 +516,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/gauthamkv07/Data-structures/tree/master/1908-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamkv07/Data-structures/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->

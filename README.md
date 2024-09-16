@@ -193,6 +193,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/gauthamkv07/Data-structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0890-lemonade-change](https://github.com/gauthamkv07/Data-structures/tree/master/0890-lemonade-change) |
@@ -264,6 +265,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
@@ -311,6 +313,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gauthamkv07/Data-structures/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/gauthamkv07/Data-structures/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
@@ -332,6 +335,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gauthamkv07/Data-structures/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/gauthamkv07/Data-structures/tree/master/0664-strange-printer) |

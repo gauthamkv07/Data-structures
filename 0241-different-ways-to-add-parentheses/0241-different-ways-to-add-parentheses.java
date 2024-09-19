@@ -20,7 +20,7 @@ class Solution {
             return res;
         }
 
-        if(end - start == 1 && Character.isDigit(expression.charAt(start))) {
+        if(end - start == 1) {
             int tens = expression.charAt(start) - '0';
             int ones = expression.charAt(end) - '0';
 

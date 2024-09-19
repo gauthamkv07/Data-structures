@@ -319,6 +319,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
@@ -332,6 +333,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -343,6 +345,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/gauthamkv07/Data-structures/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
@@ -454,6 +457,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/gauthamkv07/Data-structures/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/gauthamkv07/Data-structures/tree/master/0664-strange-printer) |
@@ -540,4 +544,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamkv07/Data-structures/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/gauthamkv07/Data-structures/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->

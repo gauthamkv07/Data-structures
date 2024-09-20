@@ -1,13 +1,23 @@
 class Solution {
     public String shortestPalindrome(String s) {
-        int n = s.length();
         String revString = new StringBuilder(s).reverse().toString();
+        String combString = s  + "#" + revString;
 
-        for (int i = 0; i < n; i++) {
-            if (s.substring(0, n - i).equals(revString.substring(i)))
-                return new StringBuilder(revString.substring(0, i)).append(s).toString();
+        int palindromeLength = kmp(combString);
+        StringBuilder suffix = new StringBuilder(s.substring(palindromeLength)).reverse();
+        return suffix.append(s).toString();
+    }
+
+    private int kmp(String s) {
+        int[] prefixTable = new int[s.length()];
+
+        int len = 0;
+        for(int i = 1; i < prefixTable.length; i++) {
+            while(len > 0 && s.charAt(i) != s.charAt(len)) len = prefixTable[len-1];
+            if(s.charAt(i) == s.charAt(len)) len++;
+            prefixTable[i] = len;
         }
 
-        return "";
+        return prefixTable[s.length() - 1];
     }
 }

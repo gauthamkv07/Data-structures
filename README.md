@@ -536,6 +536,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Trie
 |  |
 | ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauthamkv07/Data-structures/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 ## Database
 |  |

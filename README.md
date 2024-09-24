@@ -193,6 +193,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
+| [0135-candy](https://github.com/gauthamkv07/Data-structures/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -291,6 +292,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/gauthamkv07/Data-structures/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/gauthamkv07/Data-structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |

@@ -227,6 +227,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamkv07/Data-structures/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamkv07/Data-structures/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2727-number-of-senior-citizens](https://github.com/gauthamkv07/Data-structures/tree/master/2727-number-of-senior-citizens) |
@@ -368,6 +369,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/gauthamkv07/Data-structures/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -462,6 +464,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0920-uncommon-words-from-two-sentences](https://github.com/gauthamkv07/Data-structures/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkv07/Data-structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -548,6 +551,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/gauthamkv07/Data-structures/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkv07/Data-structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Database
 |  |

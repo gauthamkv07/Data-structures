@@ -200,6 +200,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/gauthamkv07/Data-structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/gauthamkv07/Data-structures/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/gauthamkv07/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
@@ -268,6 +269,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0907-koko-eating-bananas](https://github.com/gauthamkv07/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamkv07/Data-structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -507,6 +509,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
+| [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -577,4 +580,12 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0214-shortest-palindrome) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->

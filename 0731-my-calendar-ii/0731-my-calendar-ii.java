@@ -1,35 +1,29 @@
 class MyCalendarTwo {
-
-    private List<int[]> bookings;
-    private List<int[]> overlapBookings;
-
-    public boolean doesOverLap(int start1, int end1, int start2, int end2) {
-        return Math.max(start1, start2) < Math.min(end1, end2);
-    }
-
-    public int[] getOverlappedBooking(int start1, int end1, int start2, int end2) {
-        return new int[]{Math.max(start1, start2), Math.min(end1, end2)};
-    }
+    TreeMap<Integer, Integer> map;
+    int maxOverlapBooking;
 
     public MyCalendarTwo() {
-        bookings = new ArrayList<>();
-        overlapBookings = new ArrayList<>();
+        map = new TreeMap<>();
+        maxOverlapBooking = 2;
     }
-    
+
     public boolean book(int start, int end) {
-        for(int[] booking: overlapBookings) {
-            int start1 = booking[0];
-            int end1 = booking[1];
-            if(doesOverLap(start1, end1, start, end)) return false;
-        }
+        map.put(start, map.getOrDefault(start, 0) + 1);
+        map.put(end, map.getOrDefault(end, 0) - 1);
+        int overlapBooking = 0;
 
-        for(int[] booking: bookings) {
-            int start1 = booking[0];
-            int end1 = booking[1];
-            if(doesOverLap(start1, end1, start, end)) overlapBookings.add(getOverlappedBooking(start1, end1, start, end));
-        }
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            overlapBooking += entry.getValue();
 
-        bookings.add(new int[]{start, end});
+            if (overlapBooking > maxOverlapBooking) {
+                map.put(start, map.getOrDefault(start, 0) - 1);
+                map.put(end, map.getOrDefault(end, 0) + 1);
+
+                if(map.get(start) == 0) map.remove(start);
+
+                return false;
+            }
+        }
 
         return true;
     }

@@ -202,6 +202,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/gauthamkv07/Data-structures/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/gauthamkv07/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
@@ -309,6 +310,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gauthamkv07/Data-structures/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/gauthamkv07/Data-structures/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -349,6 +351,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -514,6 +517,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
 ## Binary Search Tree
 |  |
 | ------- |

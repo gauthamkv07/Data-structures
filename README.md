@@ -245,6 +245,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0432-all-oone-data-structure](https://github.com/gauthamkv07/Data-structures/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
@@ -310,6 +311,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/gauthamkv07/Data-structures/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gauthamkv07/Data-structures/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -513,6 +515,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/gauthamkv07/Data-structures/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
@@ -598,4 +601,8 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/gauthamkv07/Data-structures/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->

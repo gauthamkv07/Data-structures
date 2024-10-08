@@ -267,6 +267,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
@@ -308,6 +309,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamkv07/Data-structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamkv07/Data-structures/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkv07/Data-structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -377,6 +379,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1720-crawler-log-folder](https://github.com/gauthamkv07/Data-structures/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -396,6 +399,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1720-crawler-log-folder](https://github.com/gauthamkv07/Data-structures/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 ## Tree
 |  |

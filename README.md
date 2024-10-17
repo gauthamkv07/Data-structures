@@ -306,6 +306,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0135-candy](https://github.com/gauthamkv07/Data-structures/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/gauthamkv07/Data-structures/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/gauthamkv07/Data-structures/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0890-lemonade-change](https://github.com/gauthamkv07/Data-structures/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauthamkv07/Data-structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -346,6 +347,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gauthamkv07/Data-structures/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/gauthamkv07/Data-structures/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/gauthamkv07/Data-structures/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/gauthamkv07/Data-structures/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |

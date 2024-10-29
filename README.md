@@ -237,6 +237,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/gauthamkv07/Data-structures/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gauthamkv07/Data-structures/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/gauthamkv07/Data-structures/tree/master/2727-number-of-senior-citizens) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkv07/Data-structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -452,6 +453,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gauthamkv07/Data-structures/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -503,6 +505,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1511-count-number-of-teams](https://github.com/gauthamkv07/Data-structures/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/gauthamkv07/Data-structures/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |

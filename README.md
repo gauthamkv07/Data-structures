@@ -222,6 +222,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamkv07/Data-structures/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/gauthamkv07/Data-structures/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/gauthamkv07/Data-structures/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1803-average-waiting-time](https://github.com/gauthamkv07/Data-structures/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamkv07/Data-structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -281,6 +282,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/gauthamkv07/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamkv07/Data-structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Sorting
@@ -313,6 +315,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gauthamkv07/Data-structures/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/gauthamkv07/Data-structures/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamkv07/Data-structures/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gauthamkv07/Data-structures/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -504,6 +507,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gauthamkv07/Data-structures/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/gauthamkv07/Data-structures/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/gauthamkv07/Data-structures/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Shortest Path

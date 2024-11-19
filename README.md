@@ -204,6 +204,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/gauthamkv07/Data-structures/tree/master/0890-lemonade-change) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/gauthamkv07/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/gauthamkv07/Data-structures/tree/master/1002-maximum-width-ramp) |
@@ -280,6 +281,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/gauthamkv07/Data-structures/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -367,6 +369,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -474,6 +477,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/gauthamkv07/Data-structures/tree/master/1325-path-with-maximum-probability) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gauthamkv07/Data-structures/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -534,6 +538,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamkv07/Data-structures/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -564,6 +569,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/1435-xor-queries-of-a-subarray) |
@@ -635,4 +641,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/gauthamkv07/Data-structures/tree/master/1002-maximum-width-ramp) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->

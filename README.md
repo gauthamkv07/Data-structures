@@ -265,6 +265,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauthamkv07/Data-structures/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/gauthamkv07/Data-structures/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkv07/Data-structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkv07/Data-structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
@@ -402,6 +403,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/gauthamkv07/Data-structures/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/gauthamkv07/Data-structures/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/gauthamkv07/Data-structures/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/gauthamkv07/Data-structures/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -544,6 +546,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamkv07/Data-structures/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauthamkv07/Data-structures/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/gauthamkv07/Data-structures/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 ## Design
 |  |

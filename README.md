@@ -209,6 +209,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/gauthamkv07/Data-structures/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gauthamkv07/Data-structures/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/gauthamkv07/Data-structures/tree/master/1293-three-consecutive-odds) |
@@ -258,6 +259,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gauthamkv07/Data-structures/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gauthamkv07/Data-structures/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gauthamkv07/Data-structures/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/gauthamkv07/Data-structures/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -462,6 +464,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gauthamkv07/Data-structures/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/gauthamkv07/Data-structures/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |

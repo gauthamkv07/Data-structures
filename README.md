@@ -369,6 +369,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/gauthamkv07/Data-structures/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gauthamkv07/Data-structures/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3783-mirror-distance-of-an-integer](https://github.com/gauthamkv07/Data-structures/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |

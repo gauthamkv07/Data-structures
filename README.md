@@ -194,6 +194,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/gauthamkv07/Data-structures/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -286,6 +287,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |

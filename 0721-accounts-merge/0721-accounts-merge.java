@@ -1,8 +1,7 @@
 class Solution {
-    
     class DSU {
-        int parent[];
-        int size[];
+        int[] parent;
+        int[] size;
 
         public DSU(int n) {
             parent = new int[n];
@@ -42,10 +41,10 @@ class Solution {
         Map<String, Integer> emailGroup = new HashMap<>();
 
         for(int i = 0; i < n; i++) {
-            int z = accounts.get(i).size();
+            int size = accounts.get(i).size();
             String accName = accounts.get(i).get(0);
 
-            for(int j = 1; j < z; j++) {
+            for(int j = 1; j < size; j++) {
                 String email = accounts.get(i).get(j);
 
                 if(!emailGroup.containsKey(email)) emailGroup.put(email, i);
@@ -53,15 +52,13 @@ class Solution {
             }
         }
 
-        Map<Integer, List<String>> components = new HashMap<Integer, List<String>>();
+        Map<Integer, List<String>> components = new HashMap<>();
 
         for(String email: emailGroup.keySet()) {
             int group = emailGroup.get(email);
             int groupRep = dsu.find(group);
 
-            if(!components.containsKey(groupRep)) {
-                components.put(groupRep, new ArrayList<String>());
-            }
+            if(!components.containsKey(groupRep)) components.put(groupRep, new ArrayList<>());
 
             components.get(groupRep).add(email);
         }
@@ -69,10 +66,11 @@ class Solution {
         List<List<String>> mergedAccounts = new ArrayList<>();
 
         for(int group: components.keySet()) {
-            List<String> component = components.get(group);
-            Collections.sort(component);
-            component.add(0, accounts.get(group).get(0));
-            mergedAccounts.add(component);
+            List<String> list = components.get(group);
+
+            Collections.sort(list);
+            list.add(0, accounts.get(group).get(0));
+            mergedAccounts.add(list);
         }
 
         return mergedAccounts;

@@ -201,6 +201,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/gauthamkv07/Data-structures/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/gauthamkv07/Data-structures/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
@@ -260,6 +261,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/gauthamkv07/Data-structures/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gauthamkv07/Data-structures/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -307,6 +309,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
@@ -399,6 +402,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gauthamkv07/Data-structures/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/gauthamkv07/Data-structures/tree/master/0664-strange-printer) |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/gauthamkv07/Data-structures/tree/master/0726-number-of-atoms) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gauthamkv07/Data-structures/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -462,6 +466,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/gauthamkv07/Data-structures/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/gauthamkv07/Data-structures/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
@@ -547,6 +552,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/gauthamkv07/Data-structures/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -669,4 +675,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Union-Find
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->

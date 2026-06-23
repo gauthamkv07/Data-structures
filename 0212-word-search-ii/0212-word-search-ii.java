@@ -1,96 +1,63 @@
-class TrieNode {
-    String word;
-    TrieNode[] children;
+class Solution {
 
-    public TrieNode() {
-        children = new TrieNode[26];
+    class TrieNode {
+        TrieNode[] children;
+        String word;
 
-        for (int i = 0; i < 26; i++)
-            children[i] = null;
+        public TrieNode() {
+            children = new TrieNode[26];
+            word = null;
+            for(TrieNode child: children) child = null;
+        }
     }
 
-    public TrieNode getChild(int index) {
-        return children[index];
-    }
+    class Trie {
+        TrieNode root;
+        List<String> result;
 
-    public void setChild(int index, TrieNode node) {
-        children[index] = node;
-    }
-
-    public String getWord() {
-        return word;
-    }
-
-    public void setWord(String word) {
-        this.word = word;
-    }
-}
-
-class Trie {
-    TrieNode root;
-
-    public Trie() {
-        root = new TrieNode();
-    }
-
-    public TrieNode getRoot() {
-        return root;
-    }
-
-    public void addString(String s) {
-        TrieNode crawler = root;
-
-        for (int i = 0; i < s.length(); i++) {
-            int index = s.charAt(i) - 'a';
-            if (crawler.getChild(index) == null)
-                crawler.setChild(index, new TrieNode());
-            crawler = crawler.getChild(index);
+        public Trie() {
+            root = new TrieNode();
+            result = new ArrayList<>();
         }
 
-        crawler.setWord(s);
-    }
+        public void buildTrie(String[] words) {
+            for(String word: words) {
+                TrieNode crawler = root;
 
-}
+                for(int i = 0; i < word.length(); i++) {
+                    int index = word.charAt(i) - 'a';
+                    if(crawler.children[index] == null) crawler.children[index] = new TrieNode();
+                    crawler = crawler.children[index];
+                }
 
-class Solution {
-    Trie trie;
-    List<String> res;
+                crawler.word = word;
+            }
+        }
 
-    public Solution() {
-        trie = new Trie();
-        res = new ArrayList<>();
+        public void dfs(char[][] board, int i, int j, TrieNode crawler) {
+            char c = board[i][j];
+
+            if(crawler.children[c - 'a'] == null) return;
+            crawler = crawler.children[c - 'a'];
+            if(crawler.word != null) {
+                result.add(crawler.word); 
+                crawler.word = null;
+            }
+
+            board[i][j] = '#';
+            if(i - 1 >= 0 && board[i-1][j] != '#') dfs(board, i-1, j, crawler);
+            if(j - 1 >= 0 && board[i][j-1] != '#') dfs(board, i, j-1, crawler);
+            if(i + 1 < board.length && board[i+1][j] != '#') dfs(board, i+1, j, crawler);
+            if(j + 1 < board[0].length && board[i][j+1] != '#') dfs(board, i, j+1, crawler);
+            board[i][j] = c;
+        }
     }
 
     public List<String> findWords(char[][] board, String[] words) {
-        for (String word : words)
-            trie.addString(word);
-        for (int i = 0; i < board.length; i++)
-            for (int j = 0; j < board[0].length; j++)
-                dfs(board, i, j, trie.getRoot());
-        return res;
+        Trie trie = new Trie();
+        trie.buildTrie(words);
+        int m = board.length, n = board[0].length;
+        for(int i = 0; i < m; i++) for(int j = 0; j < n; j++) trie.dfs(board, i, j, trie.root);
+        return trie.result;
     }
-
-    private void dfs(char[][] board, int i, int j, TrieNode node) {
-        int c = board[i][j] - 'a';
-        if (c < 0 || node.getChild(c) == null)
-            return;
-
-        node = node.getChild(c);
-        if (node.getWord() != null) {
-            res.add(node.getWord());
-            node.setWord(null); // Avoid duplicates
-        }
-
-        board[i][j] = '#'; // Mark as visited
-        if (i - 1 >= 0)
-            dfs(board, i - 1, j, node);
-        if (i + 1 < board.length)
-            dfs(board, i + 1, j, node);
-        if (j - 1 >= 0)
-            dfs(board, i, j - 1, node);
-        if (j + 1 < board[0].length)
-            dfs(board, i, j + 1, node);
-        board[i][j] = (char) (c + 'a'); // Unmark
-    }
-
 }

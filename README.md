@@ -545,6 +545,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/gauthamkv07/Data-structures/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauthamkv07/Data-structures/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -609,6 +610,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1435-xor-queries-of-a-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gauthamkv07/Data-structures/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamkv07/Data-structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gauthamkv07/Data-structures/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Game Theory
 |  |
 | ------- |

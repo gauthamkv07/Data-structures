@@ -236,6 +236,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2067-maximum-number-of-points-with-cost](https://github.com/gauthamkv07/Data-structures/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/gauthamkv07/Data-structures/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/gauthamkv07/Data-structures/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -419,6 +420,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/gauthamkv07/Data-structures/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/gauthamkv07/Data-structures/tree/master/2502-sort-the-people) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gauthamkv07/Data-structures/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -453,6 +455,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1484-linked-list-in-binary-tree](https://github.com/gauthamkv07/Data-structures/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/gauthamkv07/Data-structures/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
@@ -476,6 +479,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/gauthamkv07/Data-structures/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2035-count-sub-islands](https://github.com/gauthamkv07/Data-structures/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -494,6 +498,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0210-course-schedule-ii) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2472-build-a-matrix-with-conditions](https://github.com/gauthamkv07/Data-structures/tree/master/2472-build-a-matrix-with-conditions) |
 ## Divide and Conquer
 |  |
@@ -686,4 +691,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/gauthamkv07/Data-structures/tree/master/0721-accounts-merge) |
+## Graph Theory
+|  |
+| ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->

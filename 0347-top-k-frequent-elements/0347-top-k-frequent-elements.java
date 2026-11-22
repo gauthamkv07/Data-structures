@@ -4,9 +4,9 @@ class Solution {
 
         Map<Integer, Integer> map = new HashMap<>();
         List<Integer>[] bucket = new List[n+1];
-        List<Integer> res = new ArrayList<>();
+        int[] res = new int[k];
 
-        for(int num: nums) map.put(num, map.getOrDefault(num, 0) + 1);
+        for(int num: nums) map.put(num, map.getOrDefault(num,0) + 1);
 
         for(Map.Entry<Integer,Integer> entry: map.entrySet()) {
             int num = entry.getKey(), count = entry.getValue();
@@ -17,11 +17,11 @@ class Solution {
         for(int i = n; i > 0 && idx < k; i--) {
             if(bucket[i] == null) continue;
             for(int num: bucket[i]) {
-                res.add(num);
-                if(++idx == k) break;
+                res[idx++] = num;
+                if(idx == k) break;
             }
         }
 
-        return res.stream().mapToInt(Integer::intValue).toArray();
+        return res;
     }
 }

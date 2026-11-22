@@ -193,6 +193,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0001-two-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/gauthamkv07/Data-structures/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/gauthamkv07/Data-structures/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -261,6 +262,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0001-two-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/gauthamkv07/Data-structures/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/gauthamkv07/Data-structures/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gauthamkv07/Data-structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauthamkv07/Data-structures/tree/master/0242-valid-anagram) |
@@ -312,6 +314,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/gauthamkv07/Data-structures/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gauthamkv07/Data-structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauthamkv07/Data-structures/tree/master/0242-valid-anagram) |
@@ -404,6 +407,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/gauthamkv07/Data-structures/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0214-shortest-palindrome) |

@@ -293,6 +293,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/gauthamkv07/Data-structures/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1972-rotating-the-box](https://github.com/gauthamkv07/Data-structures/tree/master/1972-rotating-the-box) |
@@ -411,6 +412,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/gauthamkv07/Data-structures/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0214-shortest-palindrome) |

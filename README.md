@@ -438,6 +438,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/gauthamkv07/Data-structures/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gauthamkv07/Data-structures/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gauthamkv07/Data-structures/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/gauthamkv07/Data-structures/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |

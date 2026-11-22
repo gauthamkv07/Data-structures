@@ -200,6 +200,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/gauthamkv07/Data-structures/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
@@ -267,6 +268,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0217-contains-duplicate](https://github.com/gauthamkv07/Data-structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauthamkv07/Data-structures/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/gauthamkv07/Data-structures/tree/master/0432-all-oone-data-structure) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
@@ -318,6 +320,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0179-largest-number](https://github.com/gauthamkv07/Data-structures/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/gauthamkv07/Data-structures/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gauthamkv07/Data-structures/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/gauthamkv07/Data-structures/tree/master/0539-minimum-time-difference) |
 | [0588-design-in-memory-file-system](https://github.com/gauthamkv07/Data-structures/tree/master/0588-design-in-memory-file-system) |
@@ -515,11 +518,13 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -533,6 +538,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -541,6 +547,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/gauthamkv07/Data-structures/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/gauthamkv07/Data-structures/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/gauthamkv07/Data-structures/tree/master/0948-sort-an-array) |
@@ -707,4 +714,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/gauthamkv07/Data-structures/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

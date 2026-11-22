@@ -191,6 +191,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/0074-search-a-2d-matrix) |
 | [0135-candy](https://github.com/gauthamkv07/Data-structures/tree/master/0135-candy) |
@@ -258,6 +259,7 @@ All solution explanation links are in the corresponding questions readme file. T
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/gauthamkv07/Data-structures/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gauthamkv07/Data-structures/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/gauthamkv07/Data-structures/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/gauthamkv07/Data-structures/tree/master/0217-contains-duplicate) |

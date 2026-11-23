@@ -1,30 +1,30 @@
 class LRUCache {
 
     class Node {
-        int key, val;
-
         Node next, prev;
+        int key, value;
 
-        public Node(int key, int val) {
+        public Node(int key, int value) {
             this.key = key;
-            this.val = val;
+            this.value = value;
+        }
+
+        private void updateValue(int value) {
+            this.value = value;
         }
     }
 
+    Map<Integer, Node> cache;
     int size, capacity;
-    HashMap<Integer, Node> cache;
     Node head, tail;
 
     public LRUCache(int capacity) {
+        cache = new HashMap<>();
         size = 0;
         this.capacity = capacity;
-        cache = new HashMap<>();
 
         head = new Node(-1,-1);
-        tail = new Node(-1,-1);
-
-        head.prev = null;
-        tail.next = null;
+        tail = new Node(-1, -1);
 
         head.next = tail;
         tail.prev = head;
@@ -34,8 +34,8 @@ class LRUCache {
         node.next = head.next;
         node.prev = head;
 
+        head.next.prev = node;
         head.next = node;
-        node.next.prev = node;
     }
 
     private void removeNode(Node node) {
@@ -50,33 +50,33 @@ class LRUCache {
         removeNode(node);
         addNode(node);
     }
-
+    
     private void pop() {
         int key = tail.prev.key;
-        Node node = cache.get(key);
+        Node node = tail.prev;
         cache.remove(key);
         removeNode(node);
         size--;
     }
-    
+
     public int get(int key) {
         if(!cache.containsKey(key)) return -1;
         Node node = cache.get(key);
         moveToHead(node);
-        return node.val;
+        return node.value;
     }
     
     public void put(int key, int value) {
         if(cache.containsKey(key)) {
             Node node = cache.get(key);
-            node.val = value;
+            node.updateValue(value);
             moveToHead(node);
             return;
         }
-
+        
         Node node = new Node(key, value);
-        addNode(node);
         cache.put(key, node);
+        addNode(node);
         size++;
         if(size > capacity) pop();
     }

@@ -223,6 +223,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1293-three-consecutive-odds](https://github.com/gauthamkv07/Data-structures/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/gauthamkv07/Data-structures/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/1333-sort-the-jumbled-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/gauthamkv07/Data-structures/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/gauthamkv07/Data-structures/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -393,6 +394,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0650-2-keys-keyboard](https://github.com/gauthamkv07/Data-structures/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/gauthamkv07/Data-structures/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1642-water-bottles](https://github.com/gauthamkv07/Data-structures/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/gauthamkv07/Data-structures/tree/master/2645-pass-the-pillow) |
@@ -615,6 +617,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0731-my-calendar-ii](https://github.com/gauthamkv07/Data-structures/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/gauthamkv07/Data-structures/tree/master/0859-design-circular-deque) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/gauthamkv07/Data-structures/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
@@ -624,6 +627,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/gauthamkv07/Data-structures/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/1352-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -637,6 +641,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gauthamkv07/Data-structures/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/gauthamkv07/Data-structures/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/gauthamkv07/Data-structures/tree/master/1240-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/gauthamkv07/Data-structures/tree/master/1352-product-of-the-last-k-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/gauthamkv07/Data-structures/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamkv07/Data-structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |

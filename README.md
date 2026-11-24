@@ -259,6 +259,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [3235-minimum-cost-to-convert-string-i](https://github.com/gauthamkv07/Data-structures/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkv07/Data-structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -399,6 +400,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/gauthamkv07/Data-structures/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gauthamkv07/Data-structures/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3783-mirror-distance-of-an-integer](https://github.com/gauthamkv07/Data-structures/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -607,6 +609,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gauthamkv07/Data-structures/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/gauthamkv07/Data-structures/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -662,6 +665,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gauthamkv07/Data-structures/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Trie
 |  |
 | ------- |
@@ -729,4 +733,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gauthamkv07/Data-structures/tree/master/0347-top-k-frequent-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->

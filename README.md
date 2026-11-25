@@ -261,6 +261,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3934-smallest-unique-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -293,6 +294,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/gauthamkv07/Data-structures/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/gauthamkv07/Data-structures/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3934-smallest-unique-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -319,6 +321,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/gauthamkv07/Data-structures/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/gauthamkv07/Data-structures/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3362-find-the-median-of-the-uniqueness-array](https://github.com/gauthamkv07/Data-structures/tree/master/3362-find-the-median-of-the-uniqueness-array) |
+| [3934-smallest-unique-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -690,6 +693,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -698,6 +702,7 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/gauthamkv07/Data-structures/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -737,4 +742,8 @@ All solution explanation links are in the corresponding questions readme file. T
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/gauthamkv07/Data-structures/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->

@@ -1,18 +1,6 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        int curr = 10;
-        boolean isAliceTurn = true;
-
-        while(n > 0) {
-            if(n >= curr) {
-                isAliceTurn = !isAliceTurn;
-                n -= curr;
-                curr--;
-            } else{
-                break;
-            }
-        }
-
-        return !isAliceTurn;
+        int k = (int)(21 - Math.sqrt(441 - 8 * n))/2;
+        return k % 2 == 1; 
     }
 }

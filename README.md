@@ -387,6 +387,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gauthamkv07/Data-structures/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2645-pass-the-pillow](https://github.com/gauthamkv07/Data-structures/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/gauthamkv07/Data-structures/tree/master/2846-robot-collisions) |
+| [3360-stone-removal-game](https://github.com/gauthamkv07/Data-structures/tree/master/3360-stone-removal-game) |
 ## Math
 |  |
 | ------- |
@@ -403,6 +404,7 @@ All solution explanation links are in the corresponding questions readme file. T
 | [1951-find-the-winner-of-the-circular-game](https://github.com/gauthamkv07/Data-structures/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/gauthamkv07/Data-structures/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/gauthamkv07/Data-structures/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3360-stone-removal-game](https://github.com/gauthamkv07/Data-structures/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauthamkv07/Data-structures/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3783-mirror-distance-of-an-integer](https://github.com/gauthamkv07/Data-structures/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
